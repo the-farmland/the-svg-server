@@ -24,7 +24,7 @@
       filter: drop-shadow(0 2px 8px #0004);
     }
     .trigger-btn:hover {
-      r: 22;
+      /* r: 22;  -- This line was removed to prevent perceived movement */
       filter: drop-shadow(0 4px 16px #0006);
     }
     .map-popup rect {
