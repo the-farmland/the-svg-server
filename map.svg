@@ -24,8 +24,10 @@
       filter: drop-shadow(0 2px 8px #0004);
     }
     .trigger-btn:hover {
-      /* r: 22;  -- This line was removed to prevent perceived movement */
-      filter: drop-shadow(0 4px 16px #0006);
+      /* The 'r: 22;' was previously removed. */
+      /* This line is now removed to prevent the drop-shadow from changing on hover, */
+      /* which caused perceived movement of overlapping content. */
+      /* filter: drop-shadow(0 4px 16px #0006); */
     }
     .map-popup rect {
       filter: drop-shadow(0 2px 12px #0002);
