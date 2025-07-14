@@ -20,14 +20,12 @@
     }
     .trigger-btn {
       cursor: pointer;
-      transition: r 0.15s, filter 0.2s;
+      /* Removed transition property as nothing is transitioning on hover anymore */
+      /* transition: r 0.15s, filter 0.2s; */
       filter: drop-shadow(0 2px 8px #0004);
     }
     .trigger-btn:hover {
-      /* The 'r: 22;' was previously removed. */
-      /* This line is now removed to prevent the drop-shadow from changing on hover, */
-      /* which caused perceived movement of overlapping content. */
-      /* filter: drop-shadow(0 4px 16px #0006); */
+      /* No changes here, as per previous fixes */
     }
     .map-popup rect {
       filter: drop-shadow(0 2px 12px #0002);
