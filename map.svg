@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- Created with Inkscape  -->
 
 <svg
    width="100%"
@@ -45,8 +45,7 @@
            sodipodi:nodetypes="ccssssssscscccccsc"
            transform="matrix(3.7795276,0,0,3.7795276,97.132419,-76.793179)" /></g><g
          id="map-popups"
-         style="fill:none"
-         visibility="hidden">
+         style="fill:none">
          <!-- Group 1 --><g
            class="popup-group"
            id="g28"
