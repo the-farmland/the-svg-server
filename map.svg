@@ -141,7 +141,7 @@
                style="fill:#fff, color:##000">Arts District</text></g></g></g></g></g><style
      id="style9">
     .popup-group .map-popup {
-      visibility: hidden;
+      visibility: unset;
       opacity: 0;
       pointer-events: none;
       transition: opacity 0.2s;
