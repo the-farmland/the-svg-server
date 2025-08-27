@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg
-   width="100%"
+<svg xmlns="http://www.w3.org/2000/svg"    width="100%"
    height="100%"
-   viewBox="0 0 175.65129 182.84404"
-   version="1.1"
-   id="svg5"
-   xml:space="preserve"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-
-        
+   viewBox="0 0 175.65129 182.84404">
   <g id="svg5" transform="matrix(2.5040218830108643, 0, 0, 2.5040218830108643, 532.6018676757812, -402.43170166015625)">
     <g id="layer1" transform="matrix(1, 0, 0, 1, -45.14888, 153.579544)">
       <g id="Layer_2" transform="matrix(0.2672977,0,0,0.2672977,-88.518699,0.25194768)">
